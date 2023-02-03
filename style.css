@@ -1,0 +1,23 @@
+.logo{
+    background-image: url("http://via.placeholder.com/640x360");
+    height:50px; 
+    width:50px;
+    margin-right: 0px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+ol{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap:20px
+}
+.settings{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap:20px
+}
